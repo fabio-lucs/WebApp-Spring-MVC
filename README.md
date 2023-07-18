@@ -1,9 +1,9 @@
 # WebApp-Spring-MVC
 
-Este repositório contém um aplicativo web desenvolvido em Java utilizando o framework Spring MVC juntamente com as tecnologias JPA, Hibernate, Thymeleaf e MySQL. O aplicativo foi construído com o objetivo de demonstrar um exemplo prático de uma aplicação web utilizando essas tecnologias populares.
+
+Este repositório contém um aplicativo web de Vendas desenvolvido em Java utilizando o framework Spring MVC, juntamente com as tecnologias JPA, Hibernate, Thymeleaf e MySQL. O objetivo deste aplicativo é fornecer um exemplo prático de um sistema CRUD (Create, Read, Update, Delete) para o gerenciamento de produtos em um contexto de vendas.
 
 Recursos e tecnologias utilizadas:
-
 Java: O aplicativo é desenvolvido em Java, aproveitando a ampla adoção e o poder da linguagem.
 Spring MVC: O framework Spring MVC é utilizado para a construção da aplicação web, permitindo a criação de controladores, rotas e a gestão do ciclo de vida dos componentes.
 JPA (Java Persistence API): É utilizada para mapear objetos Java em entidades persistentes no banco de dados relacional.
